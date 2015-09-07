@@ -1,5 +1,7 @@
 # Isucon4
 
+Phoenix implementation of isucon4 qual application
+
 ## debug mode
 
 clone repository and run `mix deps.get`
