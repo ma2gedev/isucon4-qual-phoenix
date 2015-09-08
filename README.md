@@ -50,3 +50,8 @@ $ ./benchmarker bench --host=localhost:8080
 
 - Erlang 17.4
 - Elixir 1.0.4
+
+## License
+
+MIT
+
