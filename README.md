@@ -2,6 +2,16 @@
 
 Phoenix implementation of isucon4 qual application
 
+## setup
+
+assume that Erlang, Elixir and Hex are installed
+
+```shell
+$ git clone git@github.com:ma2gedev/isucon4-qual-phoenix.git
+$ cd isucon4-qual-phoenix
+$ mix deps.get
+```
+
 ## debug mode
 
 clone repository and run `mix deps.get`
@@ -16,7 +26,7 @@ clone repository and run `mix deps.get`
 
 results on my MacBook Air
 
-```
+```shell
 # Phoenix
 $ ./benchmarker bench --host=localhost:4000
 23:19:39 type:info  message:!!! DEBUG MODE !!! DEBUGE MODE !!!
