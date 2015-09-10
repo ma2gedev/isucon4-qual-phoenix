@@ -34,7 +34,7 @@ defmodule Isucon4.Mixfile do
      {:mariaex, ">= 0.0.0"},
      {:phoenix_html, "~> 2.1"},
      {:phoenix_live_reload, "~> 1.0", only: :dev},
-     {:plug_forwarded_peer, github: "ma2gedev/plug_forwarded_peer", branch: "ma2gedev-patch-1"},
+     {:plug_forwarded_peer, "~> 0.0.2"},
      {:cowboy, "~> 1.0"}]
   end
 end
